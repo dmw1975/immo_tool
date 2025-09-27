@@ -59,7 +59,12 @@ Thumbs.db
 *.xml
 *.xlsx
 
+
 # Only allow specific files
 !README.md
 !CLAUDE.md
 !requirements.txt
+
+# Working directories
+work/
+final/
